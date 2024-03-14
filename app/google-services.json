@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1044954131245",
+    "firebase_url": "https://tours-project-208c8-default-rtdb.firebaseio.com",
+    "project_id": "tours-project-208c8",
+    "storage_bucket": "tours-project-208c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044954131245:android:159c6edb39d8d3b5b5c1a4",
+        "android_client_info": {
+          "package_name": "com.example.masterproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044954131245-6hjt10rm5eut76t90f9dkeonpsmi3lit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.masterproject",
+            "certificate_hash": "3e19683c9ca029a6df7a6d223afa14b3decbf8ba"
+          }
+        },
+        {
+          "client_id": "1044954131245-jluvutpq1t8fug8d14sflcver40fid95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-fKEwToCC_bewmBIC2w3Fk_sdpvOLUTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044954131245-jluvutpq1t8fug8d14sflcver40fid95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
